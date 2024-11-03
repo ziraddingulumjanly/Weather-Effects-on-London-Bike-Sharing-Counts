@@ -22,6 +22,8 @@ This project investigates two primary questions:
 1. How does London's weather affect daily bike-sharing counts?
 2. How do bike-sharing counts vary by season?
 
+   ![all_in_1](https://github.com/user-attachments/assets/c400c2eb-6c3b-4854-96d6-52c878c4c61c)
+
 ## Dataset Details
 
 The dataset includes the following key fields:
