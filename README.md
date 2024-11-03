@@ -21,9 +21,6 @@ This repository contains an analysis of the London Bike Sharing dataset to explo
 This project investigates two primary questions:
 1. How does London's weather affect daily bike-sharing counts?
 2. How do bike-sharing counts vary by season?
-
-   ![all_in_1](https://github.com/user-attachments/assets/c400c2eb-6c3b-4854-96d6-52c878c4c61c)
-
 ## Dataset Details
 
 The dataset includes the following key fields:
@@ -38,6 +35,9 @@ The dataset includes the following key fields:
 - `season`: Season categorization (0 = spring, 1 = summer, 2 = fall, 3 = winter)
 
 For more details on the dataset, refer to [Kaggle dataset source](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset).
+
+![all_in_1](https://github.com/user-attachments/assets/6eb8e20d-9954-42a0-85cc-c786fd349132)
+
 
 ---
 
